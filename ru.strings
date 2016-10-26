@@ -1,5 +1,9 @@
 "language_name" = "Русский";
 
+"auth_login_open" = "Войти через Telegram";
+"auth_login_help" = "в приложении нажмите START";
+"auth_login_alt" = "Или отправьте это роботу ";
+
 "auth_scopes_basic" = "Общедоступному профилю";
 "auth_scopes_email" = "Адресу электронной почты";
 "auth_scopes_avatar" = "Изображению профиля";
