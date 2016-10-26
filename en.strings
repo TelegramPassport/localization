@@ -1,5 +1,9 @@
 "language_name" = "English";
 
+"auth_login_open" = "Open in Telegram";
+"auth_login_help" = "...and press START";
+"auth_login_alt" = "Or send this message to ";
+
 "auth_scopes_basic" = "Access your basic account info";
 "auth_scopes_email" = "See your email address";
 "auth_scopes_avatar" = "Get your profile picture";
