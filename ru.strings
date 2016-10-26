@@ -1,0 +1,11 @@
+"language_name" = "Русский";
+
+"auth_scopes_basic" = "Общедоступному профилю";
+"auth_scopes_email" = "Адресу электронной почты";
+"auth_scopes_avatar" = "Изображению профиля";
+
+"auth_logout" = "Выйти";
+"auth_requesting" = "запрашивает доступ к вашему:";
+"auth_continue_as" = "Продолжить как";
+"auth_cancel" = "Отмена";
+"auth_security_note" = "Приложение не увидит ваши диалоги и контакты";
