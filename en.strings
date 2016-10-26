@@ -1,0 +1,11 @@
+"language_name" = "English";
+
+"auth_scopes_basic" = "Access your basic account info";
+"auth_scopes_email" = "See your email address";
+"auth_scopes_avatar" = "Get your profile picture";
+
+"auth_logout" = "Logout";
+"auth_requesting" = "is requesting permission to:";
+"auth_continue_as" = "Continue as";
+"auth_cancel" = "Cancel";
+"auth_security_note" = "This app won't get access your chats and contacts";
