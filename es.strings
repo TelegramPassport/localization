@@ -1,0 +1,15 @@
+"language_name" = "Español";
+
+"auth_login_open" = "Entrar a través de Telegram";
+"auth_login_help" = "en la aplicación pulse el botón START";
+"auth_login_alt" = "O envíelo al robot ";
+
+"auth_scopes_basic" = "Perfil público";
+"auth_scopes_email" = "Dirección de correo electrónico";
+"auth_scopes_avatar" = "Imagen de perfil";
+
+"auth_logout" = "Salir";
+"auth_requesting" = "solicita acceso a su:";
+"auth_continue_as" = "Continuar como";
+"auth_cancel" = "Cancelar";
+"auth_security_note" = "La aplicación no verá sus diálogos y contactos";
