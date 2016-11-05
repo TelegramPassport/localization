@@ -1,6 +1,6 @@
 "language_name" = "Español";
 
-"auth_menu_signed_as" = "Ha entrado como";
+"auth_menu_signed_as" = "Usted ha entrado como";
 "auth_menu_my_apps" = "Mis aplicaciones";
 
 "auth_login_open" = "Entrar a través de Telegram";
