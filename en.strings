@@ -1,5 +1,8 @@
 "language_name" = "English";
 
+"auth_menu_signed_as" = "Signed in as";
+"auth_menu_my_apps" = "My Apps";
+
 "auth_login_open" = "Open in Telegram";
 "auth_login_help" = "...and press START";
 "auth_login_alt" = "Or send this message to ";

@@ -1,5 +1,8 @@
 "language_name" = "Русский";
 
+"auth_menu_signed_as" = "Вы вошли как";
+"auth_menu_my_apps" = "Мои приложения";
+
 "auth_login_open" = "Войти через Telegram";
 "auth_login_help" = "в приложении нажмите START";
 "auth_login_alt" = "Или отправьте это роботу ";
