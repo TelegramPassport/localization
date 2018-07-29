@@ -1,0 +1,18 @@
+"language_name" = "فارسی";
+
+"auth_menu_signed_as" = "ورود به عنوان";
+"auth_menu_my_apps" = "اپلیکیشن های من";
+
+"auth_login_open" = "بازکردن در تلگرام";
+"auth_login_help" = "... و روی START کلیک کنید;
+"auth_login_alt" = "و یا این پیام را ارسال کنید";
+
+"auth_scopes_basic" = "دسترسی به اطلاعات پایه تان";
+"auth_scopes_email" = "مشاهده آدرس ایمیلتان ";
+"auth_scopes_avatar" = "دریافت تصویر پروفایل تان";
+
+"auth_logout" = "خروج";
+"auth_requesting" = "درخواست دسترسی به:";
+"auth_continue_as" = "ادامه به عنوان:";
+"auth_cancel" = "لغو";
+"auth_security_note" = "این اپلیکیشن به مخاطبین و گفت و گو های شما دسترسی ندارد.";
