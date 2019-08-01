@@ -1,0 +1,18 @@
+"language_name" = "Українська";
+
+"auth_menu_signed_as" = "Ви увійшли як";
+"auth_menu_my_apps" = "Мої застосунки";
+
+"auth_login_open" = "Відкрити у Telegram";
+"auth_login_help" = "...та натисність РОЗПОЧАТИ";
+"auth_login_alt" = "Або надішліть це повідомлення у ";
+
+"auth_scopes_basic" = "Розпізнавати вас";
+"auth_scopes_email" = "Бачити вашу е-пошту";
+"auth_scopes_avatar" = "Бачити ваш аватар";
+
+"auth_logout" = "Вийти";
+"auth_requesting" = "запитує дозволу щоби:";
+"auth_continue_as" = "Продовжити як";
+"auth_cancel" = "Відмінити";
+"auth_security_note" = "Цей додаток на зможе бачити ваші діалоги та іншої особистої інформації";
